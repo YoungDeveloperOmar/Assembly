@@ -1,2 +1,2 @@
 # Assembly
-This repository was made for practice assembly language
+This repository was made to practice assembly language
